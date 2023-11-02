@@ -1,0 +1,8 @@
+.volver{
+    float: left;
+    color: #0048db;
+    font-weight: 400;
+    margin-right: 5px;
+    display: inline-flex;
+    cursor: pointer;
+}
